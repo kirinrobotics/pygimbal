@@ -77,8 +77,8 @@ github: winter2897
 mail: haiquantran2897@gmail.com
 ```
 
-## Licence
+<!-- ## Licence
 
 Pygimbal is made available under the permissive open source Apache 2.0 License.
 
-Copyright 2023 Kirins Robotics, Inc.
+Copyright 2023 Kirins Robotics, Inc. -->
